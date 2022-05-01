@@ -5,6 +5,8 @@
 # **Due 2 May, 2022 (Monday) 11:59PM EST**
 
 # ### Natural Language Processing
+# ### Eshan Kumar
+# ### ek3227
 # We will train a supervised training model to predict if a tweet has a positive or negative sentiment.
 
 # ####  **Dataset loading & dev/test splits**
